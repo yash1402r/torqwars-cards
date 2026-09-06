@@ -1,0 +1,50 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>TorqCapture — TorqWars</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet"><style>
+:root{--bg:#D9D5CD;--card:#EFEDE7;--ink:#17130E;--muted:#6E685D;--line:#CDC7BB;--soft:#E7E3DA;--accent:#DF4E18;--hot:#F0611D;--torq:#D61A74;--good:#3C6E4C;--gold:#A9781F;--shadow:0 1px 0 rgba(0,0,0,.04),0 18px 40px -24px rgba(20,14,8,.45)}
+@media (prefers-color-scheme:dark){:root{--bg:#120F0C;--card:#1D1915;--ink:#F1ECE3;--muted:#A0978A;--line:#332C24;--soft:#241F1A;--accent:#FF6A2C;--hot:#FF7E42;--torq:#FF4D97;--good:#5FB07A;--gold:#E0B24C;--shadow:0 1px 0 rgba(0,0,0,.3),0 24px 50px -28px rgba(0,0,0,.8)}}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:"IBM Plex Sans",ui-sans-serif,system-ui,"Segoe UI",Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:clamp(16px,4vw,44px)}
+.disp{font-family:"Saira Condensed","IBM Plex Sans",sans-serif;font-weight:800;letter-spacing:.4px;line-height:1.02}
+.kick{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--torq);font-weight:600}
+.brand{font-family:"Saira Condensed",sans-serif;font-weight:800;letter-spacing:2px;text-transform:uppercase;font-size:14px;color:var(--muted)}
+.brand b{color:var(--accent)}
+header{margin-bottom:22px;display:flex;justify-content:space-between;align-items:center}
+.grade{font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;padding:4px 10px;border-radius:999px;border:1px solid var(--line)}
+.grade.best{background:var(--accent);color:#fff;border-color:var(--accent)}
+.grade.rnd{background:transparent;color:var(--torq);border-color:var(--torq)}
+h1.title{font-size:clamp(40px,9vw,88px);margin:.12em 0 .1em;color:var(--ink)}
+.aka{font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--muted);margin-bottom:14px}
+.aka b{color:var(--hot)}
+.hook{font-size:clamp(18px,2.6vw,23px);font-weight:500;max-width:60ch;color:var(--ink);margin-bottom:22px}
+.media,.ph{width:100%;display:block;border-radius:14px;border:1px solid var(--line);box-shadow:var(--shadow)}
+.media{object-fit:cover;background:var(--soft)}
+.hero .media,.hero .ph{aspect-ratio:16/8}
+.ph{aspect-ratio:16/9;background:repeating-linear-gradient(135deg,var(--soft),var(--soft) 14px,transparent 14px,transparent 28px);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;color:var(--muted);text-align:center;padding:16px}
+.ph-tag{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:2px;font-weight:700;color:var(--torq);border:1px solid var(--torq);border-radius:5px;padding:2px 8px}
+.ph-file{font-family:"IBM Plex Mono",monospace;font-size:14px;color:var(--ink);font-weight:600}
+.ph-note{font-size:11px}
+section{margin-top:34px}
+h2{font-size:clamp(22px,3.4vw,30px);color:var(--ink);margin-bottom:4px}
+h2 .n{color:var(--accent)}
+.lead{color:var(--muted);max-width:64ch;margin-bottom:16px;font-size:15px}
+.grid{display:grid;gap:14px}
+.g2{grid-template-columns:1fr 1fr}.g3{grid-template-columns:repeat(3,1fr)}
+@media(max-width:640px){.g2,.g3{grid-template-columns:1fr}}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;box-shadow:var(--shadow)}
+.tile h3{font-family:"Saira Condensed",sans-serif;font-size:19px;font-weight:700;margin-bottom:4px}
+.tile .sub{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:var(--torq);margin-bottom:8px}
+.tile p{font-size:14px;color:var(--muted)}
+.tile .media,.tile .ph{margin-bottom:10px}
+ul.clean{list-style:none;display:grid;gap:9px}
+ul.clean li{position:relative;padding-left:26px;font-size:15.5px}
+ul.clean li::before{content:"";position:absolute;left:0;top:.5em;width:11px;height:11px;border-radius:3px;background:var(--accent);transform:rotate(45deg)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11px;background:var(--soft);border:1px solid var(--line);border-radius:999px;padding:5px 11px;color:var(--ink)}
+.chip b{color:var(--accent)}
+.callout{background:var(--card);border-left:4px solid var(--torq);border-radius:0 12px 12px 0;padding:14px 18px;margin-top:16px;box-shadow:var(--shadow)}
+.callout b{color:var(--torq)}
+.strip{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:640px){.strip{grid-template-columns:1fr}}
+footer{margin-top:46px;padding-top:16px;border-top:1px solid var(--line);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:12px;color:var(--muted);font-family:"IBM Plex Mono",monospace}
+footer a{color:var(--torq);text-decoration:none}
+</style></head><body><div class="wrap"><header><span class="brand">TORQ<b>WARS</b> · GAME 04</span><span class="grade rnd">Idea level · Prototype-gated</span></header><span class="kick">Capture the region, not the flag</span><h1 class="title disp">TorqCapture</h1><p class="aka">Call of Duty objective modes — <b>territory control</b> with RC cars · Standalone game</p><p class="hook">Two teams fight over glowing zones. Drive in, out-number them, hold the ground — the ring flips to your colour and ticks points. It's the only true team-vs-team game in the set, and the zones flipping colour on the overhead cam is a live map of who's winning.</p><div class="hero"><div class="ph"><span class="ph-tag">IMAGE</span><span class="ph-file">torqcapture-hero.png</span><span class="ph-note">render pending — drop this file into renders/</span></div></div><section><h2>How you <span class="n">hold</span> a zone</h2><ul class="clean"><li><b>Occupy = hold.</b> Your car sits in the lit ring; the team with <b>more cars inside</b> controls it.</li><li><b>Deny = shove.</b> Rivals drive in to contest — you body-check them out. The bumper is the weapon.</li><li><b>Capture = hold the majority</b> for a ~5s timer → the ring flips your colour and ticks points, even after you roll off to fight elsewhere, until they take it back.</li><li><b>Scored by tech</b>, not a marshal — a tag on each car + a zone reader; the ring lights up on capture.</li></ul></section><section><h2>The <span class="n">playlist</span></h2><p class="lead">One floor, a COD-style rotation — swap the rules + zone layout in minutes.</p><div class="grid g3"><div class="tile"><h3>Domination</h3><p>3 zones A/B/C — hold to tick, own 2 of 3 = the tug-of-war. The default.</p></div><div class="tile"><h3>Hotzone</h3><p>One lit zone that relocates every 60–90s → the whole pack scrambles.</p></div><div class="tile"><h3>The Hill</h3><p>One central zone, hold it longest. The quick round + the final.</p></div><div class="tile"><h3>Siege Point</h3><p>Capture locks the zone for N seconds → assault vs defend. Advanced.</p></div><div class="tile"><h3>Courier</h3><p>The legacy flag-run, kept as one mode (absorbed Capture the Zone).</p></div></div></section><section><h2>See it <span class="n">flip</span></h2><div class="grid g2"><div class="ph"><span class="ph-tag">IMAGE</span><span class="ph-file">torqcapture-domination.png</span><span class="ph-note">render pending — drop this file into renders/</span></div><div class="ph"><span class="ph-tag">VIDEO</span><span class="ph-file">torqcapture-scramble.mp4</span><span class="ph-note">render pending — drop this file into renders/</span></div></div></section><div class="callout"><b>Gated on one bench test.</b> The scoring tech has to detect + count the cars in a ring — and only that ring — while they shove and overlap. An overhead-camera build is the front-runner (spatially exact, and it doubles as the content feed). Prove that, and the electronics also power TorqBall's boost pads.</div><footer><span>TorqWars · TorqCapture · shareable concept page</span><span>Detailed spec: Rulebook + Zone-Capture Tech (PDF)</span></footer></div></body></html>
