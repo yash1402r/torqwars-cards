@@ -1,0 +1,12 @@
+| Game | It's basically | Type | Idea Level | Status | Card |
+|---|---|---|---|---|---|
+| TorqBall | Rocket League with RC buggies | Flagship | Best | Prototype-gated (ball + boards test) | https://yash1402r.github.io/torqwars-cards/torqball.html |
+| TorqFall | Fall Guys with RC buggies | Arena | Best | Event #1 — ready | https://yash1402r.github.io/torqwars-cards/torqfall.html |
+| TorqSiege | Castle build-and-smash | Arena | Ungraded (pending collapse test) | Prototype-gated (collapse test) | https://yash1402r.github.io/torqwars-cards/torqsiege.html |
+| TorqCapture | Call of Duty objective modes | Arena | Ungraded (pending bench test) | Prototype-gated (zone bench test) | https://yash1402r.github.io/torqwars-cards/torqcapture.html |
+| TorqSumo | Beyblade / Sumo push-out | Arena | Good | Not developed | https://yash1402r.github.io/torqwars-cards/torqsumo.html |
+| Balloon Battle | Splatoon-ish balloon popping | Station | Good | Not developed | https://yash1402r.github.io/torqwars-cards/balloon.html |
+| Torq Bowling | Bowling | Station | Low | Not developed | https://yash1402r.github.io/torqwars-cards/bowling.html |
+| Capture the Zone | Capture the Flag | Station | Superseded | Absorbed into TorqCapture (Courier mode) | https://yash1402r.github.io/torqwars-cards/capturezone.html |
+| The Maze | Neon time-trial maze | Station | Cut | Cut | https://yash1402r.github.io/torqwars-cards/maze.html |
+| Mini-Golf | Mini-golf | Station | Cut | Cut | https://yash1402r.github.io/torqwars-cards/minigolf.html |

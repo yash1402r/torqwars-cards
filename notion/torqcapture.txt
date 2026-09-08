@@ -1,0 +1,13 @@
+## Documents
+
+- **TorqCapture — Rulebook** — territory-control rules + the 5-mode playlist
+- **TorqCapture — Zone-Capture Tech** — the scoring-tech gate — RFID vs BLE vs camera, BOM, bench test
+- **TorqCapture — What The Event Needs** — full kit + cost incl. the zone electronics
+- **TorqCapture — Full Run Plan** — mode-rotation show, the scoring-operator role, content
+- **TorqCapture — Design Study v1** — the territory-control reframe + locked decisions
+
+## Links
+
+- Live card: https://yash1402r.github.io/torqwars-cards/torqcapture.html
+- Diagram: https://yash1402r.github.io/torqwars-cards/diagrams/torqcapture-zones-diagram.png
+- Diagram: https://yash1402r.github.io/torqwars-cards/diagrams/torqcapture-cv-diagram.png

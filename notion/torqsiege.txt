@@ -1,0 +1,12 @@
+## Documents
+
+- **TorqSiege — Build Phase & Weapons v1** — the build-and-smash loop + the weapon system
+- **TorqSiege — Collapse Test Protocol v1** — the prototype test that gates the whole game
+- **TorqSiege — What The Event Needs** — delta kit + cost (consumables, weapons, tech)
+- **TorqSiege — Full Run Plan** — pre / setup / during / post, roles + content
+- **TorqSiege — Design Study v1** — the standalone-event framing + the direction call
+
+## Links
+
+- Live card: https://yash1402r.github.io/torqwars-cards/torqsiege.html
+- Diagram: https://yash1402r.github.io/torqwars-cards/diagrams/torqsiege-arena-diagram.png
