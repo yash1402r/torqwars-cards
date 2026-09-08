@@ -1,12 +1,12 @@
 ## Documents
 
-- **TorqBall — Rulebook** — how the ball game plays — modes, pitch, tournament, boosts
-- **TorqBall — Ball & Boards Test** — the prototype gate: find the ball, prove the boards
-- **TorqBall — Boost & Attachments** — the boost system + the boost pads
-- **TorqBall — Stretch Modes** — how to achieve Hoops / Puck / Rumble + the test each needs
-- **TorqBall — What The Event Needs** — full kit + cost incl. the boards build + electronics
-- **TorqBall — Full Run Plan** — tournament run-of-show, roles, failures, content
-- **TorqBall — Design Study v1** — the reasoning: why the flagship, the crux, the boosts
+- [Rulebook](https://yash1402r.github.io/torqwars-cards/docs/torqball-rulebook.pdf) — how the ball game plays — modes, pitch, tournament, boosts
+- [Ball & Boards Test](https://yash1402r.github.io/torqwars-cards/docs/torqball-ball-boards-test.pdf) — the prototype gate: find the ball, prove the boards
+- [Boost & Attachments](https://yash1402r.github.io/torqwars-cards/docs/torqball-boost-attachments.pdf) — the boost system + the boost pads
+- [Stretch Modes](https://yash1402r.github.io/torqwars-cards/docs/torqball-stretch-modes.pdf) — how to achieve Hoops / Puck / Rumble + the test each needs
+- [What The Event Needs](https://yash1402r.github.io/torqwars-cards/docs/torqball-what-the-event-needs.pdf) — full kit + cost incl. the boards build + electronics
+- [Full Run Plan](https://yash1402r.github.io/torqwars-cards/docs/torqball-full-run-plan.pdf) — tournament run-of-show, roles, failures, content
+- [Design Study](https://yash1402r.github.io/torqwars-cards/docs/torqball-design-study.pdf) — the reasoning: why the flagship, the crux, the boosts
 
 ## Links
 

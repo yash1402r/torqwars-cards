@@ -1,10 +1,10 @@
 ## Documents
 
-- **TorqFall — Rulebook** — how the gauntlet plays — format, modes, flow, scoring, safety
-- **TorqFall — Level Directory v1** — the 21-round library across 3 difficulty tiers
-- **TorqFall — Direction Study v2** — why TorqFall is its own standalone event
-- **TorqFall — What The Event Needs** — full kit + cost to run the event
-- **TorqFall — Full Run Plan** — pre → setup → show → post, people + content
+- [Rulebook](https://yash1402r.github.io/torqwars-cards/docs/torqfall-rulebook.pdf) — how the gauntlet plays — format, modes, flow, scoring, safety
+- [Level Directory](https://yash1402r.github.io/torqwars-cards/docs/torqfall-level-directory.pdf) — the 21-round library across 3 difficulty tiers
+- [Direction Study v2](https://yash1402r.github.io/torqwars-cards/docs/torqfall-direction-study-v2.pdf) — why TorqFall is its own standalone event
+- [What The Event Needs](https://yash1402r.github.io/torqwars-cards/docs/torqfall-what-the-event-needs.pdf) — full kit + cost to run the event
+- [Full Run Plan](https://yash1402r.github.io/torqwars-cards/docs/torqfall-full-run-plan.pdf) — pre → setup → show → post, people + content
 
 ## Links
 

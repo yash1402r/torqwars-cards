@@ -1,0 +1,137 @@
+{
+ "torqball": [
+  {
+   "title": "Rulebook",
+   "oneliner": "how the ball game plays — modes, pitch, tournament, boosts",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqball-rulebook.pdf"
+  },
+  {
+   "title": "Ball & Boards Test",
+   "oneliner": "the prototype gate: find the ball, prove the boards",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqball-ball-boards-test.pdf"
+  },
+  {
+   "title": "Boost & Attachments",
+   "oneliner": "the boost system + the boost pads",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqball-boost-attachments.pdf"
+  },
+  {
+   "title": "Stretch Modes",
+   "oneliner": "how to achieve Hoops / Puck / Rumble + the test each needs",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqball-stretch-modes.pdf"
+  },
+  {
+   "title": "What The Event Needs",
+   "oneliner": "full kit + cost incl. the boards build + electronics",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqball-what-the-event-needs.pdf"
+  },
+  {
+   "title": "Full Run Plan",
+   "oneliner": "tournament run-of-show, roles, failures, content",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqball-full-run-plan.pdf"
+  },
+  {
+   "title": "Design Study",
+   "oneliner": "the reasoning: why the flagship, the crux, the boosts",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqball-design-study.pdf"
+  }
+ ],
+ "torqfall": [
+  {
+   "title": "Rulebook",
+   "oneliner": "how the gauntlet plays — format, modes, flow, scoring, safety",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqfall-rulebook.pdf"
+  },
+  {
+   "title": "Level Directory",
+   "oneliner": "the 21-round library across 3 difficulty tiers",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqfall-level-directory.pdf"
+  },
+  {
+   "title": "Direction Study v2",
+   "oneliner": "why TorqFall is its own standalone event",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqfall-direction-study-v2.pdf"
+  },
+  {
+   "title": "What The Event Needs",
+   "oneliner": "full kit + cost to run the event",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqfall-what-the-event-needs.pdf"
+  },
+  {
+   "title": "Full Run Plan",
+   "oneliner": "pre → setup → show → post, people + content",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqfall-full-run-plan.pdf"
+  }
+ ],
+ "torqsiege": [
+  {
+   "title": "Build Phase & Weapons",
+   "oneliner": "the build-and-smash loop + the weapon system",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqsiege-build-phase-weapons.pdf"
+  },
+  {
+   "title": "Collapse Test Protocol",
+   "oneliner": "the prototype test that gates the whole game",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqsiege-collapse-test.pdf"
+  },
+  {
+   "title": "What The Event Needs",
+   "oneliner": "delta kit + cost (consumables, weapons, tech)",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqsiege-what-the-event-needs.pdf"
+  },
+  {
+   "title": "Full Run Plan",
+   "oneliner": "pre / setup / during / post, roles + content",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqsiege-full-run-plan.pdf"
+  }
+ ],
+ "torqcapture": [
+  {
+   "title": "Rulebook",
+   "oneliner": "territory-control rules + the 5-mode playlist",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqcapture-rulebook.pdf"
+  },
+  {
+   "title": "Zone-Capture Tech",
+   "oneliner": "the scoring-tech gate — RFID vs BLE vs camera, BOM, bench test",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqcapture-zone-capture-tech.pdf"
+  },
+  {
+   "title": "What The Event Needs",
+   "oneliner": "full kit + cost incl. the zone electronics",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqcapture-what-the-event-needs.pdf"
+  },
+  {
+   "title": "Full Run Plan",
+   "oneliner": "mode-rotation show, the scoring-operator role, content",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqcapture-full-run-plan.pdf"
+  },
+  {
+   "title": "Design Study",
+   "oneliner": "the territory-control reframe + locked decisions",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqcapture-design-study.pdf"
+  }
+ ],
+ "shared": [
+  {
+   "title": "Car Fleet, Scale & Protection",
+   "oneliner": "which cars to rent/buy + how to protect them cheaply",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/shared-car-fleet-protection.pdf"
+  },
+  {
+   "title": "Event Ops Standards",
+   "oneliner": "crew, permits, safety, the 'what you missed' checklist",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/shared-event-ops-standards.pdf"
+  },
+  {
+   "title": "Game Ideas – Graded",
+   "oneliner": "the master game index, graded",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/shared-game-ideas-graded.pdf"
+  },
+  {
+   "title": "TorqWars Game Index",
+   "oneliner": "one page per game + a linked document library",
+   "url": "https://yash1402r.github.io/torqwars-cards/docs/torqwars-game-index.pdf"
+  }
+ ]
+}
