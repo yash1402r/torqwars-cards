@@ -1,6 +1,6 @@
 ## Shared documents (all games)
 
-- [Car Fleet, Scale & Protection](https://yash1402r.github.io/torqwars-cards/docs/shared-car-fleet-protection.pdf) — which cars to rent/buy + how to protect them cheaply
-- [Event Ops Standards](https://yash1402r.github.io/torqwars-cards/docs/shared-event-ops-standards.pdf) — crew, permits, safety, the 'what you missed' checklist
-- [Game Ideas – Graded](https://yash1402r.github.io/torqwars-cards/docs/shared-game-ideas-graded.pdf) — the master game index, graded
+- [Car Fleet, Scale & Protection](https://yash1402r.github.io/torqwars-cards/docs/shared/shared-car-fleet-protection.pdf) — which cars to rent/buy + how to protect them cheaply
+- [Event Ops Standards](https://yash1402r.github.io/torqwars-cards/docs/shared/shared-event-ops-standards.pdf) — crew, permits, safety, the 'what you missed' checklist
+- [Game Ideas – Graded](https://yash1402r.github.io/torqwars-cards/docs/shared/shared-game-ideas-graded.pdf) — the master game index, graded
 - [TorqWars Game Index](https://yash1402r.github.io/torqwars-cards/docs/torqwars-game-index.pdf) — one page per game + a linked document library

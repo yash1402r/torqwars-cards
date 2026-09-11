@@ -1,10 +1,10 @@
 ## Documents
 
-- [Rulebook](https://yash1402r.github.io/torqwars-cards/docs/torqcapture-rulebook.pdf) — territory-control rules + the 5-mode playlist
-- [Zone-Capture Tech](https://yash1402r.github.io/torqwars-cards/docs/torqcapture-zone-capture-tech.pdf) — the scoring-tech gate — RFID vs BLE vs camera, BOM, bench test
-- [What The Event Needs](https://yash1402r.github.io/torqwars-cards/docs/torqcapture-what-the-event-needs.pdf) — full kit + cost incl. the zone electronics
-- [Full Run Plan](https://yash1402r.github.io/torqwars-cards/docs/torqcapture-full-run-plan.pdf) — mode-rotation show, the scoring-operator role, content
-- [Design Study](https://yash1402r.github.io/torqwars-cards/docs/torqcapture-design-study.pdf) — the territory-control reframe + locked decisions
+- [Rulebook](https://yash1402r.github.io/torqwars-cards/docs/games/torqcapture/torqcapture-rulebook.pdf) — territory-control rules + the 5-mode playlist
+- [Zone-Capture Tech](https://yash1402r.github.io/torqwars-cards/docs/games/torqcapture/torqcapture-zone-capture-tech.pdf) — the scoring-tech gate — RFID vs BLE vs camera, BOM, bench test
+- [What The Event Needs](https://yash1402r.github.io/torqwars-cards/docs/games/torqcapture/torqcapture-what-the-event-needs.pdf) — full kit + cost incl. the zone electronics
+- [Full Run Plan](https://yash1402r.github.io/torqwars-cards/docs/games/torqcapture/torqcapture-full-run-plan.pdf) — mode-rotation show, the scoring-operator role, content
+- [Design Study](https://yash1402r.github.io/torqwars-cards/docs/games/torqcapture/torqcapture-design-study.pdf) — the territory-control reframe + locked decisions
 
 ## Links
 

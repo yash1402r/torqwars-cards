@@ -1,9 +1,9 @@
 ## Documents
 
-- [Build Phase & Weapons](https://yash1402r.github.io/torqwars-cards/docs/torqsiege-build-phase-weapons.pdf) — the build-and-smash loop + the weapon system
-- [Collapse Test Protocol](https://yash1402r.github.io/torqwars-cards/docs/torqsiege-collapse-test.pdf) — the prototype test that gates the whole game
-- [What The Event Needs](https://yash1402r.github.io/torqwars-cards/docs/torqsiege-what-the-event-needs.pdf) — delta kit + cost (consumables, weapons, tech)
-- [Full Run Plan](https://yash1402r.github.io/torqwars-cards/docs/torqsiege-full-run-plan.pdf) — pre / setup / during / post, roles + content
+- [Build Phase & Weapons](https://yash1402r.github.io/torqwars-cards/docs/games/torqsiege/torqsiege-build-phase-weapons.pdf) — the build-and-smash loop + the weapon system
+- [Collapse Test Protocol](https://yash1402r.github.io/torqwars-cards/docs/games/torqsiege/torqsiege-collapse-test.pdf) — the prototype test that gates the whole game
+- [What The Event Needs](https://yash1402r.github.io/torqwars-cards/docs/games/torqsiege/torqsiege-what-the-event-needs.pdf) — delta kit + cost (consumables, weapons, tech)
+- [Full Run Plan](https://yash1402r.github.io/torqwars-cards/docs/games/torqsiege/torqsiege-full-run-plan.pdf) — pre / setup / during / post, roles + content
 
 ## Links
 
